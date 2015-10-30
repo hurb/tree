@@ -16,7 +16,7 @@ Blog
 <body>
 <header class="top">
       <img id="headerLogo"
-           src="../images/headerLogo.gif" alt="Starbuzz Coffee header logo image">
+           src="../images/headerLogo.gif" alt="TREE header logo image">
       <img id="headerSlogan"
           src="uploaded_files/<?php echo "$_SESSION[id]"."_0.png";?>" height=108 width=98 alt="<?php echo "uploaded_files/$_SESSION[id]"."_0.png";?>">
     </header>
